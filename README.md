@@ -18,7 +18,7 @@ Un sistema interactivo por consola desarrollado en Java para gestionar el invent
   * Sobreescritura de métodos nativos (`@Override toString`).
   * Interactividad y limpieza de buffer de memoria usando la clase `Scanner`.
   * Control de flujo algorítmico mediante ciclos `while` y `for-each`.
-  * * Manejo de excepciones y prevención de errores del sistema mediante bloques `try-catch` para validar la entrada de datos numéricos.
+  * Manejo de excepciones y prevención de errores del sistema mediante bloques `try-catch` para validar la entrada de datos numéricos.
 
 ## 💡 Sobre este Proyecto
 Este proyecto representa un hito en mi aprendizaje de Java y Arquitectura de Software. Se centró en la transición de programas de ejecución lineal a sistemas de ciclo continuo con almacenamiento dinámico de objetos en memoria.
